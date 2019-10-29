@@ -1,6 +1,7 @@
 # the-dom-challenge
-To begin comment out the script tag linking to `index.min.js` in the html file.
-Write your code in `challenge.js`
+Fork and clone down this lab via Github. 
+
+To begin comment out the script tag linking to `index.min.js` in the html file. Write your code in `challenge.js`
 
 ## Deliverables
 
